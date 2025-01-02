@@ -86,7 +86,7 @@
 <!--   <img src="https://render.gitanimals.org/farms/{j-nary}" width="1000" height="250"/> -->
 </a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyra-j&repo=github-readme-stats)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyra-j&repo=github-readme-stats) -->
 <!--
 **j-nary/j-nary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
