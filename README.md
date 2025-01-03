@@ -47,6 +47,12 @@
 
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{lyra-j}" width="1000" height="250"/>
+</a>
+
+<br>
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -85,9 +91,6 @@
   </a>
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{lyra-j}" width="1000" height="250"/>
-</a>
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyra-j&repo=github-readme-stats) -->
 <!--
