@@ -64,11 +64,11 @@
 <br>
 
 <div align="center">
-<!--   <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" /> -->
+<!--   <img width="800px" src="https://github.com/lyra-j/lyra-j/blob/master/logo_unscreen.gif" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=lyra-j&show_icons=true&theme=midnight-purple" />
 <!--   <img src="https://github-readme-repo.vercel.app/api?username=lyra-j&theme=dark&show_icons=true" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
-<!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jnary" /> -->
+<!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyra-j" /> -->
 </div>
 
 <br>
