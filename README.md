@@ -86,7 +86,7 @@
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
-<!--   <img src="https://render.gitanimals.org/farms/{j-nary}" width="1000" height="250"/> -->
+  <img src="https://render.gitanimals.org/farms/{lyra-j}" width="1000" height="250"/>
 </a>
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyra-j&repo=github-readme-stats) -->
